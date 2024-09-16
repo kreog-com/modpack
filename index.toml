@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "195ed135dea19ece71c5c8d1a3acf784bf71566e3c4629f60695a8a10da8c2ca"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "0247ac9dac37b9b4a7a9672ca9eb060d5e72c57d58f62c133687007e2c994289"
 metafile = true
@@ -11,8 +15,13 @@ hash = "71d9085baa877442c85fec562a140922d2f3d9b249d6f1ec5cb466714a0dff9d"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "c5dd1f3c47f9ffae30fbd1e2555016f9ac29e9b4252561692b285f8fdb67706b"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
-hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
+hash = "38831ff22d84ab46317dbf0ef34bd06f081384d994f8e4ccb2acda4a872956ec"
 metafile = true
 
 [[files]]

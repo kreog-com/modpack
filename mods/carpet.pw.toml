@@ -1,6 +1,6 @@
 name = "Carpet"
 filename = "fabric-carpet-1.21-1.4.147+v240613.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar"
@@ -11,3 +11,8 @@ hash = "e6f33d13406796a34e7598d997113f25f7bea3e55f9d334b73842adda52b2c5d0a86b7b1
 [update.modrinth]
 mod-id = "TQTTVgYE"
 version = "f2mvlGrg"
+
+[option]
+optional = true
+default = false
+description = "Adds a lot of commands to log and check Minecraft's internals"

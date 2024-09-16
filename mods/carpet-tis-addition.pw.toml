@@ -1,0 +1,18 @@
+name = "Carpet TIS Addition"
+filename = "carpet-tis-addition-v1.63.1-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jE0SjGuf/versions/6UgvDmub/carpet-tis-addition-v1.63.1-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "7421ffe0efdb606c832650f83dc12f13f81b274003671771e504a5aa5bf8cc1854393d6b11b56f199c5fa2bf21c436097f4ce60bae3608703efb4ef9d7052430"
+
+[update]
+[update.modrinth]
+mod-id = "jE0SjGuf"
+version = "6UgvDmub"
+
+[option]
+optional = true
+default = false
+description = "Extension to carpet that adds more commands, requires carpet to be enabled"
