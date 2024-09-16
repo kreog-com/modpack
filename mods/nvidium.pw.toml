@@ -11,3 +11,8 @@ hash = "1da6ab0a179dd18035139e4562cd8921803fbeff9ac7a2e6af216c4ab4b6baecf755970a
 [update.modrinth]
 mod-id = "SfMw2IZN"
 version = "3L83QwKZ"
+
+[option]
+optional = true
+default = true
+description = "Enable if you have an nvidia card, gives a major performance boost"
