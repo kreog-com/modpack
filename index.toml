@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "5f0d5df3a745540c154256108a3bc635e89245295555ab4c84eee01e04802a83"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
