@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "1b3782ccad7b8614100cda30d3faf42fc39f2e97932908c543005053b654ca68"
+
+[[files]]
+file = "README.md"
+hash = "82b275534679426eef6e33481a85ad3c3017b8525fc419cf2cb06a2e19017a6e"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "195ed135dea19ece71c5c8d1a3acf784bf71566e3c4629f60695a8a10da8c2ca"
 
@@ -62,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
 
 [[files]]
