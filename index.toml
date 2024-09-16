@@ -30,6 +30,11 @@ hash = "6a01776c9021fc6265fc0822e5b1b52501ea97ede89e1b399d847bd6ab4d2197"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "657ee4f1c7b9977e8b8133d8228e98eebab0409b269db58e84063e4d5060e1b8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "6c0b6ab9c61cb7a72870a2ffdb39789778c94de32f52f42908259ae4106bd449"
 metafile = true
@@ -112,6 +117,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c6fcdc3182317cc1e429caa9b103234bce4ee1c18c9cd49d59939c4f2cb03c5f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b5b80fb144862325aa9e140d1bf1079bbbea481f305f4baf05341469773e675c"
 metafile = true
 
 [[files]]
