@@ -11,6 +11,11 @@ hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d0bdf44d0cee8f2a2727b7000ed20bbb5ce00865d2d7c43ffb0abe71191db280"
 metafile = true
